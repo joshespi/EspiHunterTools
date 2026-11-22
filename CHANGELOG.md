@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.0
 
 - Added `/espihunter` commands: `unlock`, `lock`, `scale`, `sound`, `reset`. Position, scale and sound are saved.
 - Alerts fade in and can optionally play a sound when a new warning appears.
@@ -8,6 +8,7 @@
 - Added guards for missing or restricted APIs, and one refresh per frame when events burst.
 - The addon now prints a message if the client lacks the APIs it needs.
 - Added an addon icon.
+- Added a CurseForge release workflow and packaging config. The changelog is now included in packaged releases.
 
 ## 0.1.0
 
