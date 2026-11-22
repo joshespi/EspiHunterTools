@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Espi Hunter Tools
+## Notes: Warnings for missing or dead Hunter pets, low pet happiness, and Aspect of the Cheetah in combat.
+## Version: 0.1.0
+## SavedVariables: EspiHunterToolsDB
+## IconTexture: Interface\Icons\Ability_Hunter_BeastCall
+## X-Discord: https://discord.gg/6QXzmaSjW
+## X-Donate: BTC bc1q3742790fs0xe93nlcj3e4ta5m0fenykkt5euqq
+
+EspiHunterTools.lua
